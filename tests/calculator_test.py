@@ -1,6 +1,7 @@
 import unittest
 
 from modules import calculator
+
 class TestCalculator(unittest.TestCase):
 
     def test_add_2_numbers(self):
